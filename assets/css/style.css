@@ -1,0 +1,63 @@
+body {
+  margin: 0px;
+  background-image: url(../images/bg.jpg); /*https://www.g-de-b.com/matome/2015/12/25/post-4348/*/
+  background-size: 100%;
+  background-attachment: fixed;
+  letter-spacing: 1pt;
+  font-family: arial, sans-serif;
+}
+
+h1 {
+  padding: 10px;
+  color: #CBA;
+  border: thick double #CBA;
+}
+
+h2 {
+  padding: 0 10px;
+  border-left: dotted 5px #000;
+}
+
+table {
+  text-align: left;
+}
+
+tr {
+}
+
+th {
+  padding: 5px;
+  border-bottom: dotted 1px #000;
+  padding-right: 50px;
+}
+
+td {
+  border-bottom: dotted 1px #000;
+}
+
+header {
+
+}
+
+footer {
+  text-align: right;
+}
+#container {
+  width: 800px;
+  margin: 60px auto;
+  padding: 30px;
+  background-color: rgba(255,255,255,0.85);
+}
+
+#address {
+  background-color: #000;
+  color: #fff;
+}
+
+.contents {
+  padding: 30px;
+}
+
+.text {
+
+}
