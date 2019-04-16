@@ -9,13 +9,20 @@ body {
 
 h1 {
   padding: 10px;
-  color: #CBA;
+  color: #876;
   border: thick double #CBA;
 }
 
 h2 {
+  color: #876;
   padding: 0 10px;
-  border-left: dotted 5px #000;
+  border-left: dotted 5px #876;
+}
+
+img {
+  display: block;
+  width: 500px;
+  margin: 0px auto;
 }
 
 table {
@@ -33,6 +40,10 @@ th {
 
 td {
   border-bottom: dotted 1px #000;
+}
+
+li {
+  padding-bottom: 5px;
 }
 
 header {
